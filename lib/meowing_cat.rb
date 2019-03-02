@@ -1,8 +1,6 @@
 ## code your solution here.
 class Cat
-
   attr_accessor :name
-
 
   def initialize(name)
     @name = name
@@ -13,6 +11,6 @@ class Cat
   end
 
 end
-# 
+#
 # maru = Cat.new
 # maru.name = "Maru"
